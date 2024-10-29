@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Saerelety Stephania Ramin, currently a Computer Science Student. I made this account in order to be able to prepare myself for entering the industry. I will add more descriptions about me as I learn more about this website. Thank you! 
 
 <!--
 **SSRamin/SSRamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
